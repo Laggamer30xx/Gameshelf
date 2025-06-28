@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('games.json', '.'), ('styles.py', '.'), ('game_manager.py', '.'), ('edit_game_dialog.py', '.')],
+    datas=[('games.json', '.'), ('styles.py', '.'), ('game_manager.py', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
